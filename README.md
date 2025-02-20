@@ -1,7 +1,7 @@
 # My FreeCodeCamp 
 
 ## Exercises
-- [Exercise 1: Basic HTML(cat photo app)](https://raw.githubusercontent.com/TanyaNim/My-FreeCodeCamp/refs/heads/main/exercises/Cat%20Photo%20Appp.txt?token=GHSAT0AAAAAAC7I7DMC3V2RYQEFUIVBGK6CZ5XOFUQ)/exercise1.html)
+- [Exercise 1: Basic HTML](cat photo app)(https://github.com/TanyaNim/My-FreeCodeCamp/blob/main/exercises/Cat%20Photo%20Appp.txt)/exercise1.html)
 - [Exercise 2: CSS Basics](exercises/exercise2.html)
 
 ## Projects
