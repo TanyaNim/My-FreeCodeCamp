@@ -1,7 +1,8 @@
 # My FreeCodeCamp 
 
 ## Exercises
-- [Exercise 1: Basic HTML](cat photo app.index/(exercises/Cat%20Photo%20Appp.html)
+- [Exercise 1: Basic HTML](cat photo app.index/(
+exercises/Cat Photo Appp.html)
 - [Exercise 2: CSS Basics](exercises/exercise2.html)
 
 ## Projects
